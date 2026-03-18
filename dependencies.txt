@@ -1,0 +1,2 @@
+# R Packages required to run the script:
+# install.packages("ggplot2")
